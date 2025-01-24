@@ -1,6 +1,6 @@
 <h2 align=center>Privasea Teşvikli Node</h2>
 
-## Minimum System Requirements
+## Minimum Sistem Gereksinimleri
 
 | **Component**             | **Requirement**                     |
 |---------------------------|-------------------------------------|
